@@ -1,0 +1,12 @@
+lightweight tag 85a2a76be558c3cd9ae84a7ca13dc49cda728f84 V9.0.1
+Author:	Brandon Talbot <bjtal91@gmail.com>
+Date:	Sat Nov 14 02:29:24 2020 +0000
+
+commit 85a2a76be558c3cd9ae84a7ca13dc49cda728f84
+Author: Brandon Talbot <bjtal91@gmail.com>
+Date:   Sat Nov 14 02:29:24 2020 +0000
+
+    Fix currency tooltip
+    
+    Fix the issue with currency tooltip using incorrect API.
+
